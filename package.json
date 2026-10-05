@@ -1,0 +1,17 @@
+{
+  "name": "react-aria-empty-tree-reproduction",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-aria-components": "1.21.1"
+  },
+  "devDependencies": {
+    "vite": "8.3.1"
+  }
+}

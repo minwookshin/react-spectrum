@@ -1,0 +1,6 @@
+body { font: 16px/1.5 system-ui, sans-serif; margin: 32px; color: #162032; }
+main { max-width: 700px; }
+.react-aria-Tree, .react-aria-ListBox { border: 1px solid #667085; padding: 12px; min-height: 40px; margin-bottom: 20px; }
+.react-aria-TreeItem, .react-aria-ListBoxItem { padding: 8px; }
+:focus, [data-focused] { outline: 3px solid #2563eb; outline-offset: 2px; }
+button { padding: 8px 12px; }
